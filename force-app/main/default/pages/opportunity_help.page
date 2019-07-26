@@ -1,0 +1,4 @@
+<apex:page >
+<h1>This is the Opportunity help page!</h1>
+<div>Please create your new opportunities for your accounts here.</div>
+</apex:page>
